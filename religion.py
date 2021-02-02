@@ -1,12 +1,3 @@
-q1=''
-q2=''
-q3=''
-q4=''
-q5=''
-q6=''
-q7=''
-q8=''
-q9=''
 q1 = input("How many gods do you want to worship(none,one,more): ")
 if q1=='none':
     q2 = input("Are you Rich and Insane(yes or no): ")
